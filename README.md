@@ -1,6 +1,6 @@
 # Machine Learing
 ## Mi titulo
-###Airline Passenger Satisfaction
+### Airline Passenger Satisfaction
 ## Abstracto
 Este presente proyecto trata de analizar la satisfacción de los pasajeros de las aerolíneas. Mediante los factores distintos de  tratando de definir si su la satisfacción es sí o no, para ello se construye un modelo de Machine Learning.
 
